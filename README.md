@@ -18,7 +18,7 @@ In this blog you will read:
 - What is In-Memory Processing In Spark?
 - What are the advantages and awesomeness of Spark over Hadoop?
 - Terms you may encounter
--
+
 Let’s get started….
 Which are the common Big Data data processing frameworks?
 1.Apache Hadoop MapReduce: Apache Hadoop (MapReduce) is a distributed and offline computing framework for parallel computing over big data, it is the core of the Hadoop data analysis framework.
